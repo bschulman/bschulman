@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bschulman
-- 👀 I’m interested in bioinformatics, data science and data analytics, and just coding in general
-- 🌱 I’m honing my Python and Machine Learning skills
-- 💞️ I’m looking to collaborate on anything, really!
+- 👀 I’m interested in bioinformatics and data science.
+- 🌱 I’m honing my deep learning skills
+- 💞️ I’m looking to collaborate on some deep-learning models.
 - 📫 Reach me at benjaminschulman@gmail.com or www.linkedin.com/in/benjamin-s-731768129
 
