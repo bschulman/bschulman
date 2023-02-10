@@ -8,6 +8,8 @@
 
 B.A. in Mathematics and Biochemistry from Lewis & Clark College
 
+Graduate coursework in Statistics at Portland State University
+
 Certificate in Applied Data Science from Massachusetts Institute of Technology
 
 # Experience
