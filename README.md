@@ -11,9 +11,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/bschulman/Data-Science-Portfolio](https://github.com/bschulman/Data-Science-Portfolio)
 
-- 💬 Ask me about **Python, Machine Learning, and Deep Learning**
+- 💬 Ask me about **Python, Data Science, Machine Learning, and Deep Learning**
 
-- 📫 How to reach me **benjaminschulman@gmail.com**
+- 📫 How to reach me: **benjaminschulman@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
